@@ -1,0 +1,15 @@
+{
+    "id": "junjun-detepicker",
+    "name": "时间选择插件detepicker",
+    "version": "1.0.0",
+    "description": "1.  根据传入format显示不同时间日期 2. 解决picker-view 初始值无效问题",
+    "keywords": [
+        "时间选择"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
